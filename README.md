@@ -3,13 +3,7 @@ Internship Project
 
 This is a custom trained YOLOv8n model from ultralytics mean't for detecting different cooler items.
 
-The items included:
-/n-Snacks
-/n-Cans
-/n-Bottles
-/n-Candy
-/n-Fresh Food
-/n-Yogurt
+The items included: Snacks, Cans, Bottles, Candy, Fresh Food, Yogurt
 
 This model didn't see any commerical use and was more of an experiment. 
 
